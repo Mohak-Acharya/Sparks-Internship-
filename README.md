@@ -11,3 +11,10 @@ Prediction using Supervised ML
 * Dataset can be found [here](http://bit.ly/w-data) which was provided by TSP GRIP.
 
 * Predict percentage score of a student if a student studies for 9.25 hrs/day.
+
+Task 2:
+Prediction using Unsupervised ML 
+
+* Predicting type of folwer using famous iris dataset.
+
+* Used Kmeans clustering for the same.  
